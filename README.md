@@ -1,2 +1,3 @@
 # mis_3_project_dashboard
-![Main Screen](https://github.com/user-attachments/assets/4067e748-7a64-4001-9be1-ff1ad02d3efe)
+
+![Main Screen](https://github.com/user-attachments/assets/2ec2aea7-a4fe-4e48-a296-bb543d8b0489)
